@@ -1,5 +1,6 @@
 # Authly — Your Gateway to Secure Access  
 #### *Powering Trusted Connections*
+*Unlocking Trust with Scalable, Secure Authentication for Seamless Access*
 
 **Authly** is a cutting-edge Android authentication framework delivering **seamless, ultra-secure OTP-based phone login** powered by Firebase. Designed for rapid integration, Authly enables developers to build trusted, scalable communication apps with confidence.
 
