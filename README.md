@@ -35,7 +35,7 @@
 - Secure messaging platforms and social networks  
 - Apps demanding trusted, verified user identities  
 
-## Why Authly?
+## Value Proposition
 
 Authly **combines security, simplicity, and scalability** — empowering developers to deliver frictionless user experiences. It’s not just authentication; it’s **powering trusted connections at scale**.
 
