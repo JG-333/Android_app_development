@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity {
     ProgressBar mprogressbarofmain;
 
 
-
     PhoneAuthProvider.OnVerificationStateChangedCallbacks mCallbacks;
     String codesent;
 
@@ -88,7 +87,6 @@ public class MainActivity extends AppCompatActivity {
                     PhoneAuthProvider.verifyPhoneNumber(options);
 
 
-
                 }
 
 
@@ -121,8 +119,6 @@ public class MainActivity extends AppCompatActivity {
             }
         };
 
-
-
     }
 
 
@@ -135,11 +131,6 @@ public class MainActivity extends AppCompatActivity {
             intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK|Intent.FLAG_ACTIVITY_CLEAR_TASK);
             startActivity(intent);
         }
-
-
-
-
-
 
     }
 }
